@@ -68,7 +68,7 @@ Latest run on the provided dataset:
 
 The model performs above baseline, and the 3-class target is more stable than the original 10-level target.
 
-## Key Findings (Plain English)
+## Key Findings
 
 - **Weekly time spent using GenAI tools is the strongest signal for burnout.** Students who use AI tools more hours per week tend to report higher burnout risk more than any other factor measured.
 - **Self-reported AI dependency is the second strongest signal.** Students who say they rely more heavily on AI also tend to report more burnout.
